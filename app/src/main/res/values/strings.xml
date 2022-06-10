@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sohbetio</string>
+    <string name="baslik1">Welcome</string>
+    <string name="icerik1">We wish you a pleasant time in our application</string>
+    <string name="baslik2">Register</string>
+    <string name="icerik2">Kayıt olmak için aşağıdaki alanları eksiksiz bir şekilde doldurunuz</string>
+    <string name="baslik3">Hobileriniz</string>
+    <string name="icerik3">Lütfen aşağıdaki seçeneklerden en az 1 , en çok 3 tanesini seçiniz</string>
+    <string name="icerik_4">You are linked as</string>
+    <string name="sozlesmeonay">Kullanıcı Mobil Uygulama’ya giriş yaparak Sözleşme’nin tamamını, içeriğini bütünü ile anladığını ve tüm hükümlerini onayladığını kabul ve beyan eder.</string>
+    <string name="icerik_5">Forgot Password?</string>
+    <string name="icerik_6">Dont Have Account?</string>
+    <string name="icerik_7">Reset Password</string>
+    <string name="icerik_8">Send password reset link</string>
+    <string name="icerik_9">Please Verify Your Email Address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

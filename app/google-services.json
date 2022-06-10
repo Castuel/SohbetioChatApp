@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1262644790",
+    "project_id": "sohbetio-chatapp",
+    "storage_bucket": "sohbetio-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1262644790:android:39324f8628a38db9f23297",
+        "android_client_info": {
+          "package_name": "com.h5200006_burak_oztas_yonlendirilmiscalisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1262644790-0pc2afatha1trtus53tnitqu8udcb660.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACj3g39Y4KQnEL0_pnxHWKnhp589C_Iqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1262644790-0pc2afatha1trtus53tnitqu8udcb660.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

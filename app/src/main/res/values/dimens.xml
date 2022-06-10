@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="baslik_boyutu">34sp</dimen>
+    <dimen name="icerik_boyutu">14sp</dimen>
+    <dimen name="isim_boyutu">46sp</dimen>
+</resources>

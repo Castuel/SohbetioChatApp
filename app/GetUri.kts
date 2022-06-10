@@ -1,0 +1,1 @@
+fun CropImage.ActivityResult?.getUri(): Uri? { return this?.uriContent }
